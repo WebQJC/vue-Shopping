@@ -1,0 +1,25 @@
+{
+    "images": [
+        [
+            {
+                "src": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34284.webp",
+                "a": 11
+            },
+            {
+                "src": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34284.webp",
+                "a": 12
+            }
+        ],
+        [
+            {
+                "src": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34284.webp",
+                "a": 13
+            },
+            {
+                "src": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34284.webp",
+                "a": 14
+            }
+        ]
+            
+    ]
+}
